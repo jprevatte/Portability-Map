@@ -91,7 +91,7 @@ var map_cfg = {
    "name": "Delaware",
    "shortname": "DE",
    "comment": "Telehealth laws for healthcare providers were updated in Delaware during the fall of 2022. House Bill 334 allows MFTs and other providers licensed in a state that has not adopted an interstate compact applicable to them to provide telehealth services to Delaware residents. Providers who engage in interstate telehealth services must meet all requirements, including holding a valid license in another jurisdiction, being in good standing in all states they are licensed in, not being subject to any disciplinary proceedings, and obtaining an interstate registration from the Division of Professional Regulation.",
-   "link": "",
+   "link": "https://legis.delaware.gov/BillDetail?LegislationId=79227",
    "color": "#f89a1c",
    "colorOver": "#f89a1c"
   },
@@ -131,7 +131,7 @@ var map_cfg = {
    "name": "Idaho",
    "shortname": "ID",
    "comment": "Telehealth laws for behavioral health professionals were updated in Idaho during the spring of 2023. House Bill 61 allows MFTs and other licensed behavioral health professionals in another state to provide telehealth services to Idaho residents. Providers who engage in interstate telehealth services must meet all requirements, including holding a valid license in another jurisdiction that has similar licensure requirements to Idaho, not being subject to any disciplinary proceedings, acting in compliance with Idaho laws and regulations, and biennially completing the Interstate Mental or Behavioral Telehealth registration.",
-   "link": "",
+   "link": "https://legislature.idaho.gov/sessioninfo/2023/legislation/h0061/",
    "color": "#f89a1c",
    "colorOver": "#f89a1c"
   },
@@ -386,10 +386,10 @@ var map_cfg = {
   "st45": {
    "name": "Utah",
    "shortname": "UT",
-   "comment": "",
-   "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "comment": "MFT portability laws were updated in Utah in the spring of 2023. House Bill 166 allows MFTs and other providers who are licensed in good standing in another U.S. state or territory to provide mental health therapy remotely to clients in Utah. Utah state code Section 58-1-302 - “License by endorsement” was also updated in spring 2023. State code now indicates that a license should be issued to an out-of-state applicant as long as they are in good standing and have been licensed in another state with a similar scope of practice for at least one year.",
+   "link": "https://le.utah.gov/xcode/Title58/Chapter1/58-1-S302.html?v=C58-1-S302_2023050320230503",
+   "color": "#f89a1c",
+   "colorOver": "#f89a1c"
   },
   "st46": {
    "name": "Vermont",
