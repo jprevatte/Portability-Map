@@ -140,8 +140,8 @@ var map_cfg = {
    "shortname": "IL",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#3e308f",
+   "colorOver": "#3e308f"
   },
   "st15": {
    "name": "Indiana",
