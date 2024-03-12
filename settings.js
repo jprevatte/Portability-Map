@@ -50,8 +50,8 @@ var map_cfg = {
   "st3": {
    "name": "Arizona",
    "shortname": "AZ ",
-   "comment": "",
-   "link": "",
+   "comment": "On January 5th , Representative Julie Willoughby introduced HB 2114, the Access MFTs bill in Arizona. ",
+   "link": "https://apps.azleg.gov/BillStatus/BillOverview/79896",
    "color": "#3e308f",
    "colorOver": "#3e308f"
   },
@@ -114,8 +114,8 @@ var map_cfg = {
   "st11": {
    "name": "Georgia",
    "shortname": "GA",
-   "comment": "",
-   "link": "",
+   "comment": "On January 23rd, a bipartisan group of cosponsors led by Senator Larry Walker III introduced HB 373, the Access MFTs bill in Georgia",
+   "link": "https://www.legis.ga.gov/legislation/66201",
    "color": "#3e308f",
    "colorOver": "#3e308f"
   },
@@ -154,8 +154,8 @@ var map_cfg = {
   "st16": {
    "name": "Iowa",
    "shortname": "IA",
-   "comment": "",
-   "link": "",
+   "comment": "On January 24th, a Notice of Intended Action (NOIA) was filed in the Iowa Legislature (ARC 7293C); t Access MFTs has worked closely with the Iowa Regulatory Board to recommend these changes.",
+   "link": "https://www.legis.iowa.gov/docs/aco/arc/7293C.pdf",
    "color": "#3e308f",
    "colorOver": "#3e308f"
   },
@@ -170,8 +170,8 @@ var map_cfg = {
   "st18": {
    "name": "Kentucky",
    "shortname": "KY",
-   "comment": "",
-   "link": "",
+   "comment": "On January 22nd, Senator Max Wise introduced Senate Bill 113, the Access MFTs bill in Kentucky.",
+   "link": "https://apps.legislature.ky.gov/record/24rs/sb113.html",
    "color": "#3e308f",
    "colorOver": "#3e308f"
   },
@@ -194,8 +194,8 @@ var map_cfg = {
   "st21": {
    "name": "Maryland",
    "shortname": "MD",
-   "comment": "",
-   "link": "",
+   "comment": "On January 19th and 25th, respectively, Access MFTs bills were introduced to the Maryland Senate and House. Maryland Senators Katherine Klausmeier and Dawn Gile introduced SB 409, with companion bill HB 789, cross-filled by Delegate Steven Johnson",
+   "link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0409?ys=2024RS",
    "color": "#3e308f",
    "colorOver": "#3e308f"
   },
@@ -402,8 +402,8 @@ var map_cfg = {
   "st47": {
    "name": "Virginia",
    "shortname": "VA",
-   "comment": "",
-   "link": "",
+   "comment": "On January 8th, Virginia Delegate Mark Sickles introduced HB 329, the Access MFTs bill in Virginia. ",
+   "link": "https://lis.virginia.gov/cgi-bin/legp604.exe?241+sum+HB329",
    "color": "#3e308f",
    "colorOver": "#3e308f"
   },
