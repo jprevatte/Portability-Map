@@ -138,8 +138,8 @@ var map_cfg = {
   "st14": {
    "name": "Illinois",
    "shortname": "IL",
-   "comment": "",
-   "link": "",
+   "comment": "On February 7th and 12th, companion bills SB 3211 and HB 5246 were introduced in the Illinois Senate and House, respectively. These bills were introduced by Senator Javier Cervantes and Representative LaPointe.",
+   "link": "https://networks.aamft.org/portability/blogs/portability-aamft/2024/02/07/access-mfts-bills-filed-in-illinois?CommunityKey=7b42e5d5-048f-4ffe-a61f-0189798c40ed",
    "color": "#3e308f",
    "colorOver": "#3e308f"
   },
@@ -370,8 +370,8 @@ var map_cfg = {
   "st43": {
    "name": "Tennessee",
    "shortname": "TN",
-   "comment": "",
-   "link": "",
+   "comment": "On February 1st, companion bills HB 2296 and SB 2399 were introduced in the Tennessee House and Senate by Representative Sam Whitson and Senator Richard Briggs, respectively. ",
+   "link": "https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2399&GA=113",
    "color": "#3e308f",
    "colorOver": "#3e308f"
   },
