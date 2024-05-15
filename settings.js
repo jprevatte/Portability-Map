@@ -50,10 +50,10 @@ var map_cfg = {
   "st3": {
    "name": "Arizona",
    "shortname": "AZ ",
-   "comment": "On January 5th , Representative Julie Willoughby introduced HB 2114, the Access MFTs bill in Arizona. ",
-   "link": "https://apps.azleg.gov/BillStatus/BillOverview/79896",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "comment": "On April 23rd, 2024, Governor Katie Hobbs signed Senate Bill 1062, updating Arizona's licensure by endorsement laws. This revision simplifies the process for out-of-state MFTs seeking licensure in Arizona. Now, applicants need to provide a completed application, processing and licensure fees, documentation of licenses held in other jurisdictions, and proof of at least one year of licensure. Previously, applicants had two paths to licensure by endorsement; both required a minimum licensure period in another state at the same practice level and discipline. One path required one year of practice with proof of Arizona residency, while the other required three years without a residency requirement. Additionally, applicants were required to pay fees, provide fingerprints, complete a tutorial, submit ID, verify credentials, and prove residency if applying under the one-year practice and Arizona residency requirement. ",
+   "link": "https://www.azleg.gov/legtext/56leg/2R/laws/0169.pdf",
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st4": {
    "name": "Arkansas",
@@ -114,10 +114,10 @@ var map_cfg = {
   "st11": {
    "name": "Georgia",
    "shortname": "GA",
-   "comment": "On January 23rd, a bipartisan group of cosponsors led by Senator Larry Walker III introduced HB 373, the Access MFTs bill in Georgia",
+   "comment": "On July 1st, Georgia enacted Senate Bill 373, updating its MFT portability laws to streamline the licensure process for out-of-state MFTs. Under this bill, out-of-state MFTs with valid and unrestricted licenses from other U.S. states or territories can obtain an expedited license by endorsement if they meet specific criteria. This includes completing an application, holding a valid and unrestricted MFT license from another state, being in good standing with no pending investigations or disciplinary proceedings, having no disqualifying criminal record, and verifying lawful presence in the United States. Previously, out-of-state MFTs seeking licensure in Georgia by endorsement had to follow a specific application process. This involved submitting a comprehensive set of documents, including completed application forms, verification of licensure from another state, passing scores on national examinations, official college transcripts, professional references, background consent forms, and any relevant disciplinary action documentation.",
    "link": "https://www.legis.ga.gov/legislation/66201",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st12": {
    "name": "Hawaii",
@@ -154,10 +154,10 @@ var map_cfg = {
   "st16": {
    "name": "Iowa",
    "shortname": "IA",
-   "comment": "On January 24th, a Notice of Intended Action (NOIA) was filed in the Iowa Legislature (ARC 7293C); t Access MFTs has worked closely with the Iowa Regulatory Board to recommend these changes.",
-   "link": "https://www.legis.iowa.gov/docs/aco/arc/7293C.pdf",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "comment": "In the spring of 2024, Iowa’s MFT licensure portability laws were updated through House File 2515. This revised law streamlines the licensure process for out-of-state MFTs. Under this law, applicants only need to provide a completed application alongside the licensure fee, evidence of licensure requirements similarity between your jurisdiction and Iowa, verification of your license from another jurisdiction, and disclosure of any public or pending complaints. Previously, if an applicant could not provide proof of at least five years of independent practice, the applicant had to fulfill a more extensive list of requirements, including providing official transcripts, evidence of qualifications from supervisors, and verification of licensure directly from the jurisdiction.",
+   "link": "https://www.legis.iowa.gov/legislation/BillBook?ba=HF2515&ga=90",
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st17": {
    "name": "Kansas",
@@ -194,10 +194,10 @@ var map_cfg = {
   "st21": {
    "name": "Maryland",
    "shortname": "MD",
-   "comment": "On January 19th and 25th, respectively, Access MFTs bills were introduced to the Maryland Senate and House. Maryland Senators Katherine Klausmeier and Dawn Gile introduced SB 409, with companion bill HB 789, cross-filled by Delegate Steven Johnson",
-   "link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0409?ys=2024RS",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "comment": "Maryland's MFT portability laws are to be enacted by October 1st of 2024, through Senate Bill 409 and House Bill 608. These revised laws streamline the licensure process for out-of-state MFTs. Under these laws, applicants need a valid, unrestricted clinical marriage and family therapist license from another U.S. state, territory, or jurisdiction with no disciplinary history that could impact licensure. Additionally, applicants only need to submit a copy of their current license, complete the application form, and pay the required fee to the Board. While the Board can't mandate a national certification exam, they may require the Maryland Law Assessment (MLA) exam. Previously, applicants had to provide additional documentation, including transcripts, verification forms, and evidence of specific educational and supervised experience, along with passing the MFT National Exam and the MLA.",
+   "link": "https://mgaleg.maryland.gov/2024RS/chapters_noln/Ch_46_sb0409T.pdf",
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st22": {
    "name": "Massachusetts",
@@ -370,10 +370,10 @@ var map_cfg = {
   "st43": {
    "name": "Tennessee",
    "shortname": "TN",
-   "comment": "On February 1st, companion bills HB 2296 and SB 2399 were introduced in the Tennessee House and Senate by Representative Sam Whitson and Senator Richard Briggs, respectively. ",
-   "link": "https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2399&GA=113",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "comment": "In spring 2024, Tennessee updated its MFT portability laws with Senate Bill 2399. This bill streamlines the process for out-of-state MFTs seeking licensure in Tennessee. This bill empowers the Board of Professional Counselors, Marital and Family Therapists, and Clinical Pastoral Therapists to grant licensure without examination to out-of-state MFTs who meet Tennessee's licensure requirements and are independently licensed in another state. Prior to this update, out-of-state MFTs had to undergo the full initial licensure requirements and process. This required a series of steps, including providing proof of good moral character through references/letters of recommendation and background checks, passing the MFT National Exam and the Tennessee Jurisprudence Exam, and completing two years of professional experience, including at least 1000 hours of face-to-face clinical practice and 200 hours of supervision by an approved AAMFT supervisor. ",
+   "link": "https://publications.tnsosfiles.com/acts/113/pub/pc0700.pdf",
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st44": {
    "name": "Texas",
@@ -402,10 +402,10 @@ var map_cfg = {
   "st47": {
    "name": "Virginia",
    "shortname": "VA",
-   "comment": "On January 8th, Virginia Delegate Mark Sickles introduced HB 329, the Access MFTs bill in Virginia. ",
-   "link": "https://lis.virginia.gov/cgi-bin/legp604.exe?241+sum+HB329",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "comment": "In spring 2024, Virginia updated its MFT portability laws through Senate Bill 329, streamlining the endorsement process for out-of-state MFTs with valid and unrestricted licenses from other U.S. states or territories. Now, applicants only need to submit a completed application, licensure and application fees, license verification from another jurisdiction, an affidavit confirming their understanding of Virginia's MFT regulations, and a current report from the U.S. Department of Health and Human Services NPDB. Previously, the process required a more extensive list of documents, including various verifications, checks for disciplinary actions, transcripts, examination scores, and affidavits.",
+   "link": "https://lis.virginia.gov/cgi-bin/legp604.exe?241+ful+HB329ER+pdf",
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st48": {
    "name": "Washington",
