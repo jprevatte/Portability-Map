@@ -140,7 +140,7 @@ var map_cfg = {
    "shortname": "IL",
    "comment": "On February 7th and 12th, companion bills SB 3211 and HB 5246 were introduced in the Illinois Senate and House, respectively. These bills were introduced by Senator Javier Cervantes and Representative LaPointe.",
    "link": "https://networks.aamft.org/portability/blogs/portability-aamft/2024/02/07/access-mfts-bills-filed-in-illinois?CommunityKey=7b42e5d5-048f-4ffe-a61f-0189798c40ed",
-   "color": "#3e308f",
+   "color": "#800020",
    "colorOver": "#800020"
   },
   "st15": {
