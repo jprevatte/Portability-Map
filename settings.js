@@ -60,8 +60,8 @@ var map_cfg = {
    "shortname": "AR",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#3e308f",
+   "colorOver": "#3e308f"
   },
   "st5": {
    "name": "California",
@@ -84,8 +84,8 @@ var map_cfg = {
    "shortname": "CT",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#3e308f",
+   "colorOver": "#3e308f"
   },
   "st8": {
    "name": "Delaware",
@@ -100,8 +100,8 @@ var map_cfg = {
    "shortname": "DC",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#3e308f",
+   "colorOver": "#3e308f"
   },
   "st10": {
    "name": "Florida",
@@ -260,8 +260,8 @@ var map_cfg = {
    "shortname": "NV",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#3e308f",
+   "colorOver": "#3e308f"
   },
   "st30": {
    "name": "New Hampshire",
@@ -340,8 +340,8 @@ var map_cfg = {
    "shortname": "PA",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#3e308f",
+   "colorOver": "#3e308f"
   },
   "st40": {
    "name": "Rhode Island",
@@ -380,8 +380,8 @@ var map_cfg = {
    "shortname": "TX",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#3e308f",
+   "colorOver": "#3e308f"
   },
   "st45": {
    "name": "Utah",
@@ -447,7 +447,7 @@ var map_cfg = {
    "color": "#3e308f",
    "colorOver": "#3e308f",
    "name": "",
-   "shortname": "Access MFT's Phase 1 States (2024)",
+   "shortname": "Current Access MFTs efforts",
    "pointType": "",
    "radius": 5,
    "textPos": "right-middle",
@@ -460,7 +460,7 @@ var map_cfg = {
    "color": "#f89a1c",
    "colorOver": "#f89a1c",
    "name": "",
-   "shortname": "States with 2023 Portability Changes",
+   "shortname": "Recent portability law changes",
    "pointType": "",
    "radius": 5,
    "textPos": "right-middle",
