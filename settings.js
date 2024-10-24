@@ -466,6 +466,19 @@ var map_cfg = {
    "textPos": "right-middle",
    "link": "",
    "comment": ""
+  },
+ "p2": {
+  "x": 277.232,
+  "y": 371.002,
+  "color": "#800020",
+  "colorOver": "#800020",
+  "name": "",
+  "shortname": "Access MFTs successes",
+  "pointType": "",
+  "radius": 5,
+  "textPos": "right-middle",
+  "link": "",
+  "comment": ""
   }
  }
 };
