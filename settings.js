@@ -212,8 +212,8 @@ var map_cfg = {
    "shortname": "MI",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#f89a1c",
+   "colorOver": "#f89a1c"
   },
   "st24": {
    "name": "Minnesota",
@@ -252,8 +252,8 @@ var map_cfg = {
    "shortname": "NE",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#f89a1c",
+   "colorOver": "#f89a1c"
   },
   "st29": {
    "name": "Nevada",
