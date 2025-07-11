@@ -60,8 +60,8 @@ var map_cfg = {
    "shortname": "AR",
    "comment": "",
    "link": "",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st5": {
    "name": "California",
@@ -84,8 +84,8 @@ var map_cfg = {
    "shortname": "CT",
    "comment": "",
    "link": "",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st8": {
    "name": "Delaware",
