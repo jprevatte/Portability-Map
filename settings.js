@@ -252,16 +252,16 @@ var map_cfg = {
    "shortname": "NE",
    "comment": "",
    "link": "",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st29": {
    "name": "Nevada",
    "shortname": "NV",
    "comment": "",
    "link": "",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st30": {
    "name": "New Hampshire",
@@ -300,8 +300,8 @@ var map_cfg = {
    "shortname": "NC",
    "comment": "",
    "link": "",
-   "color": "#3e308f",
-   "colorOver": "#3e308f"
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st35": {
    "name": "North Dakota",
@@ -420,8 +420,8 @@ var map_cfg = {
    "shortname": "WV",
    "comment": "",
    "link": "",
-   "color": "#BDBDBD",
-   "colorOver": "#9E9E9E"
+   "color": "#800020",
+   "colorOver": "#800020"
   },
   "st50": {
    "name": "Wisconsin",
