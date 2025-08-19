@@ -58,8 +58,8 @@ var map_cfg = {
   "st4": {
    "name": "Arkansas",
    "shortname": "AR",
-   "comment": "",
-   "link": "",
+   "comment": "On April 17th, 2025, Governor Sarah Huckabee Sanders of Arkansas signed into law House Bill 1187. This bill makes it so that a Marriage and Family Therapist may obtain a license in the State of Arkansas as long as they have a license in good standing with no criminal charges or active complaints. Previously, MFTs were required to maintain full licensure for 3 years to be eligible for licensure by endorsement in Arkansas.",
+   "link": "https://arkleg.state.ar.us/Bills/Detail?id=hb1187&ddBienniumSession=2025%2F2025R",
    "color": "#800020",
    "colorOver": "#800020"
   },
@@ -82,8 +82,8 @@ var map_cfg = {
   "st7": {
    "name": "Connecticut",
    "shortname": "CT",
-   "comment": "",
-   "link": "",
+   "comment": "On June 23, 2025, Connecticut Governor Ned Lamont signed H.B. 7081 into law. This law will go into effect on October 1st, 2025. To obtain a license in the state of Connecticut, have a MFT license in good standing in another state with no pending disciplinary actions or unresolved complaints. The new law removes the previous requirement of MFTs to have practiced in another state for at least four years.",
+   "link": "https://cga.ct.gov/2025/ACT/PA/PDF/2025PA-00076-R00HB-07081-PA.PDF",
    "color": "#800020",
    "colorOver": "#800020"
   },
@@ -250,16 +250,16 @@ var map_cfg = {
   "st28": {
    "name": "Nebraska",
    "shortname": "NE",
-   "comment": "",
-   "link": "",
+   "comment": "On May 20th, 2025, Nebraska Governor Jim Pillen signed into law Legislative Bill 257. This bill will allow for Marriage and Family Therapists with a valid and unrestricted license to obtain a license in Nebraska after filling out an application, paying a licensure fee, and passing the Nebraska jurisprudence exam. This bill will allow for Marriage and Family Therapists to practice in Nebraska with fewer barriers. Previously Nebraska statute included substantially equivalent requirements that made the out-of-state licensure application process less objective and more difficult to complete.",
+   "link": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB257.pdf",
    "color": "#800020",
    "colorOver": "#800020"
   },
   "st29": {
    "name": "Nevada",
    "shortname": "NV",
-   "comment": "",
-   "link": "",
+   "comment": "On June 5th, 2025, Nevada Governor Joe Lombardo signed Assembly Bill 450. The bill will go into effect on October 5th, 2025. This bill will make it so that in the state of Nevada, Marriage and Family Therapists can obtain a license in the state unless they are denied for “good cause.” The board must also provide an answer to a complete application that does not need any additional information within 45 days of receiving the application. Previously, Nevada restricted access to LMFTs who had been investigated but not found in violation. This new update will allow those individuals to apply for licensure in the state.",
+   "link": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12665/Text",
    "color": "#800020",
    "colorOver": "#800020"
   },
@@ -418,8 +418,8 @@ var map_cfg = {
   "st49": {
    "name": "West Virginia",
    "shortname": "WV",
-   "comment": "",
-   "link": "",
+   "comment": "On July 1st, 2025, West Virginia’s Senate Bill 458 went into effect. This bill is a Universal Professional and Occupational Licensing Act which means that the legislation applies to all professions with a board of examination or registration, including Marriage and Family Therapists. In order to be granted a license in West Virginia, MFTs must be licensed and have held their license in good standing in another state for at least one year. Previously, West Virginia had a substantially equivalent licensure policy that prevented objectivity in enforcement.",
+   "link": "https://www.wvlegislature.gov/bill_status/bills_text.cfm?billdoc=sb458%20intr.htm&yr=2025&sesstype=RS&i=458",
    "color": "#800020",
    "colorOver": "#800020"
   },
