@@ -298,8 +298,8 @@ var map_cfg = {
   "st34": {
    "name": "North Carolina",
    "shortname": "NC",
-   "comment": "",
-   "link": "",
+   "comment": "On July 1st, 2025, North Carolina Governor Josh Stein signed House Bill 67 which will go into effect on October 1st, 2025. House Bill 67 will remove licensure barriers for Licensed Marriage and Family Therapists looking to obtain a North Carolina license to practice. This bill changes the previous portability policy from requiring 5 years of experience to obtain licensure and an existing license in good standing to 2 years of experience and an existing license in good standing. The bill also added the California licensure exam as an acceptable form of licensure examination.",
+   "link": "https://www.ncleg.gov/BillLookup/2025/H67",
    "color": "#800020",
    "colorOver": "#800020"
   },
